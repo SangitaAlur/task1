@@ -1,0 +1,20 @@
+.header-top {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e7e7e7;
+  }
+  
+  .sticky-navbar {
+    border-top: 1px solid #e7e7e7;
+    background-color: #fff; 
+  }
+  
+  .logo h1 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  
+  .contact-info p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  
